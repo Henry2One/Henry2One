@@ -50,6 +50,6 @@ My focus lies in building resilient backend architectures, containerizing applic
 ---
 
 ### 🌐 Connect with me
-* **Portfolio:** [henry2one.github.io](https://henry2one.github.io)[cite: 5]
-* **LinkedIn:** [Luis Enrique Ruíz Sánchez](https://linkedin.com/in/luis-enrique-ruiz-sanchez)[cite: 5]
-* **Email:** [enrique.rs.luis@gmail.com](mailto:enrique.rs.luis@gmail.com)[cite: 5]
+* **Portfolio:** [henry2one.github.io](https://henry2one.github.io)
+* **LinkedIn:** [Luis Enrique Ruíz Sánchez](https://linkedin.com/in/luis-enrique-ruiz-sanchez)
+* **Email:** [enrique.rs.luis@gmail.com](mailto:enrique.rs.luis@gmail.com)
