@@ -1,10 +1,10 @@
 # Hi there, I'm Luis a.k.a. Henry2One 👋
 
-**Cloud Infrastructure & Network Engineer | DevOps & Backend Specialist**
+**Cloud Infrastructure & Network Engineer | DevOps, Backend & Mobile Specialist**
 
 It's a pleasure to introduce myself! I am a Software Engineer and Cloud Infrastructure Administrator with **5+ years of experience** bridging software development with network operations, security, and cloud environments. I hold a Bachelor's degree in Informatics from **UNAM (FES Cuautitlán)**.
 
-My focus lies in building resilient backend architectures, containerizing applications, automating ETL/operational workflows, and securing enterprise networks and cloud deployments.
+My focus lies in building resilient backend architectures, developing native Android solutions, containerizing applications, automating ETL workflows, and securing enterprise networks and cloud deployments.
 
 ---
 
@@ -12,6 +12,7 @@ My focus lies in building resilient backend architectures, containerizing applic
 * ☁️ **Cloud & Containers:** Architecting and optimizing resources in **Google Cloud Platform (GCP)** (VMs, VPCs, Serverless), foundational **AWS**, and standardizing deployments with **Docker**.
 * 🛡️ **Networking & SecOps:** 5 years managing enterprise network hardware (**Cisco, Dell, Ubiquiti**), perimeter firewalls (**Fortinet & GCP**), VPN tunnels, and **Linux** servers via SSH.
 * ⚙️ **Backend & APIs:** Building microservices and RESTful APIs using **Node.js, Express, JavaScript, Python, and PHP**.
+* 📱 **Mobile Development:** Building native **Android** applications using **Kotlin and Java**, integrating hardware features, logistics tracking, and cloud-connected APIs.
 * 🗄️ **Databases & Data Engineering:** Designing, tuning, and automating backups/ETL pipelines across **PostgreSQL, SQL Server, MySQL, MongoDB, Firebase, and SQLite**.
 
 ---
@@ -25,12 +26,16 @@ My focus lies in building resilient backend architectures, containerizing applic
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash_Scripting-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
-**Backend, Languages & Mobile**
+**Backend & Languages**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+**Mobile Development**
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
